@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshay1598
-- 👀 I’m interested in Mobile and Java Development 
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in Web and Java Development 
+- 🌱 I’m currently learning ReactJS and have considerable skills in Java, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
