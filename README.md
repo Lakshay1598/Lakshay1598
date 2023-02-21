@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lakshay1598
+- 👋 Hi, I’m Lakshay Choube
 - 👀 I’m interested in Web and Java Development 
 - 🌱 I’m currently learning ReactJS and have considerable skills in Java, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
